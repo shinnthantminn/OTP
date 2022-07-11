@@ -1,0 +1,16 @@
+[
+  {
+    "username": "Terry",
+    "email": "shinthantmin32@gmail.com",
+    "password": "admin123",
+    "verify": true,
+    "admin": true
+  },
+  {
+    "username": "Charlie",
+    "email": "k028176@gmail.com",
+    "password": "admin123",
+    "verify": true,
+    "admin": true
+  }
+]
